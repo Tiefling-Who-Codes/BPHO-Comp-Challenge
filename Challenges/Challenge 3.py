@@ -5,7 +5,7 @@ import numpy as np
 c = 3.00e8  # speed of light in m/s
 n = 1.5      # refractive index
 L = 1.0      # Distance between Point A and B in meters
-y = 0.1      # m
+y = 0.1      # perpendicular distance from the reflection surface to points A and B in meters
 
 # Time scale factor: (n / c) * 1e9 To convert to nanoseconds
 time_scale = (n / c) * 1e9
