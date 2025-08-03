@@ -34,4 +34,4 @@ plt.ylim(0,5)
 
 #Save and Show graph
 plt.savefig('Graphs/Reflection in a Plane Mirror.png')
-plt.show()
+plt.show() 
